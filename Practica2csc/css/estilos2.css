@@ -1,0 +1,160 @@
+/*pagina Beatles*/
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#contenido{
+    margin: auto;
+    width: 100%;
+    background-color: aqua;
+}
+
+#cont{
+    float: right;
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 900px;
+    height: 800px;
+    background-color: darkcyan;
+    text-align: justify;
+}
+
+#img1{
+   
+    margin :10px;
+    padding:10px;
+    float: right;
+    width: 50%;
+    
+}
+
+#img2{
+   
+    margin :auto;
+    padding:10px;
+    float: right;
+    width: 50%;
+}
+
+
+#tt{
+    float: right;
+    width: 100%;
+    border: 1px solid black; 
+    text-align: justify;
+}
+
+
+#texto{
+    float: right;
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 300px;
+    height: 500px;
+    background-color: darkkhaki;
+    text-align: justify;
+}
+
+#informacion{
+    margin: 10%;
+    width: 10%;
+    background-color: burlywood;
+}
+
+
+/*estilos de formulario*/
+
+#formulario{
+    font-size: 200%;
+    font-family: cursive;
+    font-weight: 900;
+    color: brown;
+}
+
+.btn {
+    display: block;
+    size: 25%;
+
+}
+
+#labelc{
+    display: block;
+    margin: .5em 0 0 0
+}
+
+
+
+
+#logo{
+    margin: auto,
+}
+
+#titulo{
+    font: 800;
+    font: 100;
+    font-weight: 900;
+    color: brown;
+    width: 50%;
+    height: 50%;
+}
+
+*{
+    background-color: darkkhaki;
+}
+
+#cont{
+
+    height: 500px;
+    border: 1px blue ridge;
+    float: right;
+    width: 74%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+
+#ima{
+    
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 48%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+.dat{
+    width: 100%;
+    margin :1px;
+    top: auto;
+    padding:1px;
+    float: right;
+    border: 5px solid black;
+    
+}
+
+
+
+.contCla{
+    height: 350px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+#fondo{
+    background-image: url(imagen/historiaRock.jpg); 
+}
+
+
+

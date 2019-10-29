@@ -1,0 +1,153 @@
+/*pagina index*/
+
+#logo {
+	text-align: center;
+    background-size: 100% 100%;
+    color:bisque;
+    margin :50px;
+    padding:50px;
+    border: 1px solid black;
+}
+#body{
+    background-color: darkgreen;
+}
+
+
+#logot{
+    height: 500px;
+    border: 1px indigo;
+    float: left;
+    width: 20%;
+    background-color:darkcyan;
+    margin: 5px;
+    padding: 10px; 
+}
+
+#musica {
+   
+
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 50%;
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+#img1{
+  
+
+    height: 550px;
+    border: 1px blue ridge;
+    float: left;
+    width: 40%;
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+}
+
+#navegacion{
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 20%;
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+}
+
+#Beatles{
+    margin :10px;
+    padding:10px;
+    border-radius: 22px;
+    border: 1px solid black;
+    background-color: darkcyan;
+    width: 35%;
+}
+
+#PinkFloyd{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkcyan;
+    width: 35%;
+}
+
+#Queen{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkcyan;
+    width: 35%;
+}
+
+#LedZeppelin{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkcyan;
+    width: 35%;
+}
+
+#sesion{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 50%;
+    position: relative  ;
+}
+
+
+#formulario{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkcyan;
+    width: 35%;
+}
+#indice{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkcyan;
+    width: 35%;
+}
+
+#video{
+    margin: auto;
+    height: 300px;
+    
+    float: left;
+    width: 80%;
+    
+    margin: 5px;
+    padding: 10px;
+}
+#datos{
+    width: 100%;
+    margin :5px;
+    padding:10px;
+    float: left;
+    border: 1px solid black;
+
+}
+
+
+#general{
+    height: 550px;
+    border: 1px blue ridge;
+    float: left;
+    width: 54%;
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    text-align: justify;
+}
+

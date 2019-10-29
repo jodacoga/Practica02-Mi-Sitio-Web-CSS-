@@ -1,0 +1,56 @@
+
+/*estilos de letras */
+
+#musica{
+
+    color: whitesmoke;
+    font-size: 200%;
+    text-align: justify;
+}
+
+h1{
+    color: lightslategray;
+    font-style: oblique;
+    text-align: justify;
+    background-color: darksalmon;
+    
+
+}
+
+article{
+    color: whitesmoke;
+    background-color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+/*manejo de etiquetas*/
+
+#navegacion{
+    color: whitesmoke;
+    background-color: darkcyan;
+    
+}
+
+
+#ledz{
+    color: whitesmoke;
+    background-color: darkcyan;
+}
+
+#cont{
+
+color: whitesmoke;
+background-color: darkcyan;
+
+}
+
+.dat{
+   color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+
